@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 Phuoppa training
 address: bactuliem, hannoi,vietnam
 class: IT3
+=======
+>>>>>>> parent of 71c00bd... phuoppa.txt changed

@@ -1,2 +1,3 @@
 Phuoppa training
 address: bactuliem, hannoi,vietnam
+class: IT3

@@ -1,0 +1,9 @@
+b1: cai dat git tren local
+b2: tao tk tren github(nho username va password)
+
+-commit file: git commit -a -m"trich-dan"
+-push file: git push
+-pull file: git pull
+-xem trang thai: git status
+-xem cac phien ban: git log
+- sao chep file tren remote: git clone
